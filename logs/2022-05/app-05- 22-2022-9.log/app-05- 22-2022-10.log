@@ -1,0 +1,28 @@
+[INFO ] 2022-05-22 18:41:02,026 BaseClass.setup() - ******************chromebrowser launched *******************************
+[INFO ] 2022-05-22 18:41:02,035 BaseClass.setup() - *************************************************************** 
+[INFO ] 2022-05-22 18:41:03,800 BaseClass.setup() - Application Launched
+[INFO ] 2022-05-22 18:41:03,805 BaseClass.setup() - Screen Maximized
+[INFO ] 2022-05-22 18:41:03,978 BaseClass.signIn() - **************Signin Test case started************************* 
+[INFO ] 2022-05-22 18:41:03,978 BaseClass.signIn() - *************************************************************** 
+[INFO ] 2022-05-22 18:41:04,200 BaseClass.signIn() - click Signin link
+[INFO ] 2022-05-22 18:41:09,265 BaseClass.signIn() - Entered username
+[INFO ] 2022-05-22 18:41:09,349 BaseClass.signIn() - Entered password
+[INFO ] 2022-05-22 18:41:10,091 BaseClass.signIn() - Clicked signin button
+[INFO ] 2022-05-22 18:41:15,097 TC_Stack_005.linkStackTest() - **************Stack Test case started************************* 
+[INFO ] 2022-05-22 18:41:15,098 TC_Stack_005.linkStackTest() - *************************************************************** 
+[INFO ] 2022-05-22 18:41:15,152 TC_Stack_005.linkStackTest() - Clicked dropdown link
+[INFO ] 2022-05-22 18:41:17,565 TC_Stack_005.linkStackTest() - Selected stack from menu
+[INFO ] 2022-05-22 18:41:24,979 TC_Stack_005.linkStackTest() - click Operations in Stack link
+[INFO ] 2022-05-22 18:41:29,098 TC_Stack_005.linkStackTest() - click try here
+[INFO ] 2022-05-22 18:41:33,127 TC_Stack_005.linkStackTest() - Code entered in code editor
+[INFO ] 2022-05-22 18:41:33,208 TC_Stack_005.linkStackTest() - Run Button clicked
+[INFO ] 2022-05-22 18:41:46,639 TC_Stack_005.linkStackTest() - click Implementation link
+[INFO ] 2022-05-22 18:41:50,021 TC_Stack_005.linkStackTest() - click try here
+[INFO ] 2022-05-22 18:41:54,040 TC_Stack_005.linkStackTest() - Code entered in code editor
+[INFO ] 2022-05-22 18:41:54,127 TC_Stack_005.linkStackTest() - Run Button clicked
+[INFO ] 2022-05-22 18:42:07,542 TC_Stack_005.linkStackTest() - click Applications link
+[INFO ] 2022-05-22 18:42:10,941 TC_Stack_005.linkStackTest() - click try here
+[INFO ] 2022-05-22 18:42:14,965 TC_Stack_005.linkStackTest() - Code entered in code editor
+[INFO ] 2022-05-22 18:42:15,050 TC_Stack_005.linkStackTest() - Run Button clicked
+[INFO ] 2022-05-22 18:42:25,118 TC_Stack_005.linkStackTest() - *************************************************************** 
+[INFO ] 2022-05-22 18:42:25,131 TC_Stack_005.linkStackTest() - **************Operations Test case ended************************* 

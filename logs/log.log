@@ -1,0 +1,173 @@
+[INFO ] 2022-05-23 12:14:49,448 BaseClass.setup() - ******************chromebrowser launched *******************************
+[INFO ] 2022-05-23 12:14:49,548 BaseClass.setup() - *************************************************************** 
+[INFO ] 2022-05-23 12:14:51,320 BaseClass.setup() - Application Launched
+[INFO ] 2022-05-23 12:14:51,331 BaseClass.setup() - Screen Maximized
+[INFO ] 2022-05-23 12:14:51,500 TC_RegisterTest_001.registerTest1() - **************Registration Test case started************************* 
+[INFO ] 2022-05-23 12:14:51,501 TC_RegisterTest_001.registerTest1() - *************************************************************** 
+[INFO ] 2022-05-23 12:14:52,729 TC_RegisterTest_001.registerTest1() - Click Register Link
+[INFO ] 2022-05-23 12:14:53,790 TC_RegisterTest_001.registerTest1() - Entered username
+[INFO ] 2022-05-23 12:14:54,875 TC_RegisterTest_001.registerTest1() - Entered password
+[INFO ] 2022-05-23 12:14:54,948 TC_RegisterTest_001.registerTest1() - Entered confirm password
+[INFO ] 2022-05-23 12:14:55,552 TC_RegisterTest_001.registerTest1() - Clicked Register button
+[INFO ] 2022-05-23 12:14:55,612 TC_RegisterTest_001.registerTest1() - Registration completed successfully
+[INFO ] 2022-05-23 12:14:55,862 TC_RegisterTest_001.registerTest1() - *************************************************************** 
+[INFO ] 2022-05-23 12:14:55,862 TC_RegisterTest_001.registerTest1() - **************Registration Test case ended************************* 
+[INFO ] 2022-05-23 12:14:56,090 TC_RegisterTest_001.registerTest2() - **************Registration Test case started************************* 
+[INFO ] 2022-05-23 12:14:56,090 TC_RegisterTest_001.registerTest2() - *************************************************************** 
+[INFO ] 2022-05-23 12:14:57,328 TC_RegisterTest_001.registerTest2() - Click Register Link
+[INFO ] 2022-05-23 12:14:59,404 TC_RegisterTest_001.registerTest2() - Entered Username
+[INFO ] 2022-05-23 12:15:00,482 TC_RegisterTest_001.registerTest2() - Entered password
+[INFO ] 2022-05-23 12:15:01,575 TC_RegisterTest_001.registerTest2() - Entered password doesnot match
+[INFO ] 2022-05-23 12:15:02,926 BaseClass.captureScreen() - Screenshot taken target details:C:\Users\VISHAKAN\eclipse-workspace\Dsalgo_Herokuapp\Screenshots\registerTest2.png
+[INFO ] 2022-05-23 12:15:02,926 TC_RegisterTest_001.registerTest2() - Registration Failed
+[INFO ] 2022-05-23 12:15:03,268 TC_RegisterTest_001.registerTest2() - **************Registration Test case started************************* 
+[INFO ] 2022-05-23 12:15:03,269 TC_RegisterTest_001.registerTest2() - *************************************************************** 
+[INFO ] 2022-05-23 12:15:04,569 TC_RegisterTest_001.registerTest2() - Click Register Link
+[INFO ] 2022-05-23 12:15:06,624 TC_RegisterTest_001.registerTest2() - Entered Username
+[INFO ] 2022-05-23 12:15:07,698 TC_RegisterTest_001.registerTest2() - Entered password
+[INFO ] 2022-05-23 12:15:08,771 TC_RegisterTest_001.registerTest2() - Entered password doesnot match
+[INFO ] 2022-05-23 12:15:10,118 BaseClass.captureScreen() - Screenshot taken target details:C:\Users\VISHAKAN\eclipse-workspace\Dsalgo_Herokuapp\Screenshots\registerTest2.png
+[INFO ] 2022-05-23 12:15:10,118 TC_RegisterTest_001.registerTest2() - Registration Failed
+[INFO ] 2022-05-23 12:15:10,364 TC_RegisterTest_001.registerTest3() - **************Registration Test case started************************* 
+[INFO ] 2022-05-23 12:15:10,364 TC_RegisterTest_001.registerTest3() - *************************************************************** 
+[INFO ] 2022-05-23 12:15:11,523 TC_RegisterTest_001.registerTest3() - Click Register Link
+[INFO ] 2022-05-23 12:15:12,596 TC_RegisterTest_001.registerTest3() - Entered Username
+[INFO ] 2022-05-23 12:15:13,666 TC_RegisterTest_001.registerTest3() - Password field Entered
+[INFO ] 2022-05-23 12:15:14,746 TC_RegisterTest_001.registerTest3() - Confirm password Entered
+[INFO ] 2022-05-23 12:15:16,393 BaseClass.captureScreen() - Screenshot taken target details:C:\Users\VISHAKAN\eclipse-workspace\Dsalgo_Herokuapp\Screenshots\registerTest3.png
+[INFO ] 2022-05-23 12:15:16,394 TC_RegisterTest_001.registerTest3() - Registration Passed
+[INFO ] 2022-05-23 12:15:16,640 TC_RegisterTest_001.registerTest3() - *************************************************************** 
+[INFO ] 2022-05-23 12:15:16,640 TC_RegisterTest_001.registerTest3() - **************Registration Test case ended************************* 
+[INFO ] 2022-05-23 12:15:16,657 TC_RegisterTest_001.registerTest4() - **************Registration Test case started************************* 
+[INFO ] 2022-05-23 12:15:16,658 TC_RegisterTest_001.registerTest4() - *************************************************************** 
+[INFO ] 2022-05-23 12:15:17,858 TC_RegisterTest_001.registerTest4() - Click Register Link
+[INFO ] 2022-05-23 12:15:18,915 TC_RegisterTest_001.registerTest4() - Entered Username
+[INFO ] 2022-05-23 12:15:19,973 TC_RegisterTest_001.registerTest4() - Password field Not Entered
+[INFO ] 2022-05-23 12:15:21,030 TC_RegisterTest_001.registerTest4() - Confirm password Not Entered
+[INFO ] 2022-05-23 12:15:22,424 BaseClass.captureScreen() - Screenshot taken target details:C:\Users\VISHAKAN\eclipse-workspace\Dsalgo_Herokuapp\Screenshots\registerTest4.png
+[INFO ] 2022-05-23 12:15:23,429 TC_RegisterTest_001.registerTest4() - Registration Incomplete password fields need to fill out
+[INFO ] 2022-05-23 12:15:43,498 TC_RegisterTest_001.registerTest4() - **************Registration Test case started************************* 
+[INFO ] 2022-05-23 12:15:43,499 TC_RegisterTest_001.registerTest4() - *************************************************************** 
+[INFO ] 2022-05-23 12:15:44,788 TC_RegisterTest_001.registerTest4() - Click Register Link
+[INFO ] 2022-05-23 12:15:45,878 TC_RegisterTest_001.registerTest4() - Entered Username
+[INFO ] 2022-05-23 12:15:46,935 TC_RegisterTest_001.registerTest4() - Password field Not Entered
+[INFO ] 2022-05-23 12:15:47,991 TC_RegisterTest_001.registerTest4() - Confirm password Not Entered
+[INFO ] 2022-05-23 12:15:49,209 BaseClass.captureScreen() - Screenshot taken target details:C:\Users\VISHAKAN\eclipse-workspace\Dsalgo_Herokuapp\Screenshots\registerTest4.png
+[INFO ] 2022-05-23 12:15:50,216 TC_RegisterTest_001.registerTest4() - Registration Incomplete password fields need to fill out
+[INFO ] 2022-05-23 12:16:14,410 BaseClass.setup() - ******************chromebrowser launched *******************************
+[INFO ] 2022-05-23 12:16:14,410 BaseClass.setup() - *************************************************************** 
+[INFO ] 2022-05-23 12:16:16,855 BaseClass.setup() - Application Launched
+[INFO ] 2022-05-23 12:16:16,864 BaseClass.setup() - Screen Maximized
+[INFO ] 2022-05-23 12:16:20,615 TC_LoginTestDDL_003.loginDDL() - **************Login Test case started************************* 
+[INFO ] 2022-05-23 12:16:20,615 TC_LoginTestDDL_003.loginDDL() - *************************************************************** 
+[INFO ] 2022-05-23 12:16:22,770 TC_LoginTestDDL_003.loginDDL() - Signin link verified
+[INFO ] 2022-05-23 12:16:23,170 TC_LoginTestDDL_003.loginDDL() - Signin
+[INFO ] 2022-05-23 12:16:25,240 TC_LoginTestDDL_003.loginDDL() - Entered username
+[INFO ] 2022-05-23 12:16:25,333 TC_LoginTestDDL_003.loginDDL() - Entered Password
+[INFO ] 2022-05-23 12:16:26,357 TC_LoginTestDDL_003.loginDDL() - Clicked sign in button
+[INFO ] 2022-05-23 12:16:28,487 BaseClass.captureScreen() - Screenshot taken target details:C:\Users\VISHAKAN\eclipse-workspace\Dsalgo_Herokuapp\Screenshots\loginDDL.png
+[INFO ] 2022-05-23 12:16:28,487 TC_LoginTestDDL_003.loginDDL() - Invalid login
+[INFO ] 2022-05-23 12:16:28,681 TC_LoginTestDDL_003.loginDDL() - **************Login Test case started************************* 
+[INFO ] 2022-05-23 12:16:28,682 TC_LoginTestDDL_003.loginDDL() - *************************************************************** 
+[INFO ] 2022-05-23 12:16:30,714 TC_LoginTestDDL_003.loginDDL() - Signin link verified
+[INFO ] 2022-05-23 12:16:30,995 TC_LoginTestDDL_003.loginDDL() - Signin
+[INFO ] 2022-05-23 12:16:33,047 TC_LoginTestDDL_003.loginDDL() - Entered username
+[INFO ] 2022-05-23 12:16:33,114 TC_LoginTestDDL_003.loginDDL() - Entered Password
+[INFO ] 2022-05-23 12:16:33,416 TC_LoginTestDDL_003.loginDDL() - Clicked sign in button
+[INFO ] 2022-05-23 12:16:35,555 BaseClass.captureScreen() - Screenshot taken target details:C:\Users\VISHAKAN\eclipse-workspace\Dsalgo_Herokuapp\Screenshots\loginDDL.png
+[INFO ] 2022-05-23 12:16:35,555 TC_LoginTestDDL_003.loginDDL() - Invalid login
+[INFO ] 2022-05-23 12:16:35,657 TC_LoginTestDDL_003.loginDDL() - **************Login Test case started************************* 
+[INFO ] 2022-05-23 12:16:35,657 TC_LoginTestDDL_003.loginDDL() - *************************************************************** 
+[INFO ] 2022-05-23 12:16:37,681 TC_LoginTestDDL_003.loginDDL() - Signin link verified
+[INFO ] 2022-05-23 12:16:37,835 TC_LoginTestDDL_003.loginDDL() - Signin
+[INFO ] 2022-05-23 12:16:39,917 TC_LoginTestDDL_003.loginDDL() - Entered username
+[INFO ] 2022-05-23 12:16:39,991 TC_LoginTestDDL_003.loginDDL() - Entered Password
+[INFO ] 2022-05-23 12:16:40,686 TC_LoginTestDDL_003.loginDDL() - Clicked sign in button
+[INFO ] 2022-05-23 12:16:42,724 TC_LoginTestDDL_003.loginDDL() - Logged in successfully
+[INFO ] 2022-05-23 12:16:42,725 TC_LoginTestDDL_003.loginDDL() - *************************************************************** 
+[INFO ] 2022-05-23 12:16:42,725 TC_LoginTestDDL_003.loginDDL() - **************Login Test case ended************************* 
+[INFO ] 2022-05-23 12:16:46,133 BaseClass.setup() - ******************chromebrowser launched *******************************
+[INFO ] 2022-05-23 12:16:46,134 BaseClass.setup() - *************************************************************** 
+[INFO ] 2022-05-23 12:16:48,459 BaseClass.setup() - Application Launched
+[INFO ] 2022-05-23 12:16:48,468 BaseClass.setup() - Screen Maximized
+[INFO ] 2022-05-23 12:16:48,571 BaseClass.signIn() - **************Signin Test case started************************* 
+[INFO ] 2022-05-23 12:16:48,571 BaseClass.signIn() - *************************************************************** 
+[INFO ] 2022-05-23 12:16:48,776 BaseClass.signIn() - click Signin link
+[INFO ] 2022-05-23 12:16:53,847 BaseClass.signIn() - Entered username
+[INFO ] 2022-05-23 12:16:53,930 BaseClass.signIn() - Entered password
+[INFO ] 2022-05-23 12:16:54,641 BaseClass.signIn() - Clicked signin button
+[INFO ] 2022-05-23 12:16:59,712 TC_LinkedList_003.linkedListTest() - Clicked dropdown link
+[INFO ] 2022-05-23 12:17:03,226 TC_LinkedList_003.linkedListTest() - Selected LinkedList from menu
+[INFO ] 2022-05-23 12:17:05,818 TC_LinkedList_003.linkedListTest() - Selected Introduction link
+[INFO ] 2022-05-23 12:17:10,124 TC_LinkedList_003.linkedListTest() - Clicked TryHere button
+[INFO ] 2022-05-23 12:17:15,153 TC_LinkedList_003.linkedListTest() - Code entered in code editor
+[INFO ] 2022-05-23 12:17:15,242 TC_LinkedList_003.linkedListTest() - Rn Button clicked
+[INFO ] 2022-05-23 12:17:17,251 TC_LinkedList_003.linkedListTest() - *************************************************************** 
+[INFO ] 2022-05-23 12:17:17,251 TC_LinkedList_003.linkedListTest() - **************LinkedList Test case ended************************* 
+[INFO ] 2022-05-23 12:17:17,279 TC_LinkedList_003.createLinkedList() - **************CreateLinkedList Test case started************************* 
+[INFO ] 2022-05-23 12:17:17,279 TC_LinkedList_003.createLinkedList() - *************************************************************** 
+[INFO ] 2022-05-23 12:17:17,332 TC_LinkedList_003.createLinkedList() - Browser navigated to previous page
+[INFO ] 2022-05-23 12:17:21,365 TC_LinkedList_003.createLinkedList() - Page scrolled up
+[INFO ] 2022-05-23 12:17:23,805 TC_LinkedList_003.createLinkedList() - Clicked Createlink
+[INFO ] 2022-05-23 12:17:24,220 TC_LinkedList_003.createLinkedList() - Clicked Try here button
+[INFO ] 2022-05-23 12:17:28,246 TC_LinkedList_003.createLinkedList() - Code entered in codeeditor
+[INFO ] 2022-05-23 12:17:28,323 TC_LinkedList_003.createLinkedList() - Run button clicked
+[INFO ] 2022-05-23 12:17:30,332 TC_LinkedList_003.createLinkedList() - *************************************************************** 
+[INFO ] 2022-05-23 12:17:30,332 TC_LinkedList_003.createLinkedList() - **************CreateLinkedList Test case ended************************* 
+[INFO ] 2022-05-23 12:17:30,342 TC_LinkedList_003.typeOfLinkedList() - **************TypeOfLinkedList Test case started************************* 
+[INFO ] 2022-05-23 12:17:30,342 TC_LinkedList_003.typeOfLinkedList() - *************************************************************** 
+[INFO ] 2022-05-23 12:17:30,385 TC_LinkedList_003.typeOfLinkedList() - Browser navigated to previous page
+[INFO ] 2022-05-23 12:17:34,900 TC_LinkedList_003.typeOfLinkedList() - Clicked Typesof linkedlist
+[INFO ] 2022-05-23 12:17:37,322 TC_LinkedList_003.typeOfLinkedList() - Clicked Try here button
+[INFO ] 2022-05-23 12:17:39,337 TC_LinkedList_003.typeOfLinkedList() - Code entered in codeeditor
+[INFO ] 2022-05-23 12:17:41,421 TC_LinkedList_003.typeOfLinkedList() - Run button clicked
+[INFO ] 2022-05-23 12:17:41,421 TC_LinkedList_003.typeOfLinkedList() - *************************************************************** 
+[INFO ] 2022-05-23 12:17:41,422 TC_LinkedList_003.typeOfLinkedList() - **************TypeOfLinkedList Test case ended************************* 
+[INFO ] 2022-05-23 12:17:41,440 TC_LinkedList_003.implementLinkedList() - **************ImplementLinkedList Test case started************************* 
+[INFO ] 2022-05-23 12:17:41,441 TC_LinkedList_003.implementLinkedList() - *************************************************************** 
+[INFO ] 2022-05-23 12:17:43,506 TC_LinkedList_003.implementLinkedList() - Browser navigated to previous page
+[INFO ] 2022-05-23 12:17:45,827 TC_LinkedList_003.implementLinkedList() - Clicked implementLinkedList
+[INFO ] 2022-05-23 12:17:48,266 TC_LinkedList_003.implementLinkedList() - Clicked Try here button
+[INFO ] 2022-05-23 12:17:50,282 TC_LinkedList_003.implementLinkedList() - Code entered in codeeditor
+[INFO ] 2022-05-23 12:17:52,359 TC_LinkedList_003.implementLinkedList() - Run button clicked
+[INFO ] 2022-05-23 12:17:52,359 TC_LinkedList_003.implementLinkedList() - *************************************************************** 
+[INFO ] 2022-05-23 12:17:52,360 TC_LinkedList_003.implementLinkedList() - **************ImplementLinkedList Test case ended************************* 
+[INFO ] 2022-05-23 12:17:53,521 TC_LinkedList_003.traversal() - **************Traversal Test case started************************* 
+[INFO ] 2022-05-23 12:17:53,522 TC_LinkedList_003.traversal() - *************************************************************** 
+[INFO ] 2022-05-23 12:17:55,600 TC_LinkedList_003.traversal() - Browser navigated to previous page
+[INFO ] 2022-05-23 12:17:57,928 TC_LinkedList_003.traversal() - Clicked traversal
+[INFO ] 2022-05-23 12:17:58,439 TC_LinkedList_003.traversal() - Clicked Try here button
+[INFO ] 2022-05-23 12:18:02,456 TC_LinkedList_003.traversal() - Code entered in codeeditor
+[INFO ] 2022-05-23 12:18:02,546 TC_LinkedList_003.traversal() - Run button clicked
+[INFO ] 2022-05-23 12:18:04,552 TC_LinkedList_003.traversal() - *************************************************************** 
+[INFO ] 2022-05-23 12:18:04,552 TC_LinkedList_003.traversal() - **************Traversal Test case ended************************* 
+[INFO ] 2022-05-23 12:18:04,566 TC_LinkedList_003.insertion() - **************Insertion Test case started************************* 
+[INFO ] 2022-05-23 12:18:04,566 TC_LinkedList_003.insertion() - *************************************************************** 
+[INFO ] 2022-05-23 12:18:06,650 TC_LinkedList_003.insertion() - Browser navigated to previous page
+[INFO ] 2022-05-23 12:18:08,227 TC_LinkedList_003.insertion() - Clicked Insertion
+[INFO ] 2022-05-23 12:18:13,421 TC_LinkedList_003.insertion() - Clicked Try here button
+[INFO ] 2022-05-23 12:18:15,439 TC_LinkedList_003.insertion() - Code entered in codeeditor
+[INFO ] 2022-05-23 12:18:15,521 TC_LinkedList_003.insertion() - Run button clicked
+[INFO ] 2022-05-23 12:18:17,531 TC_LinkedList_003.insertion() - *************************************************************** 
+[INFO ] 2022-05-23 12:18:17,531 TC_LinkedList_003.insertion() - **************Insertion Test case ended************************* 
+[INFO ] 2022-05-23 12:18:17,543 TC_LinkedList_003.deletion() - **************Deletion Test case started************************* 
+[INFO ] 2022-05-23 12:18:17,544 TC_LinkedList_003.deletion() - *************************************************************** 
+[INFO ] 2022-05-23 12:18:19,611 TC_LinkedList_003.deletion() - Browser navigated to previous page
+[INFO ] 2022-05-23 12:18:21,922 TC_LinkedList_003.deletion() - Clicked deletion
+[INFO ] 2022-05-23 12:18:22,376 TC_LinkedList_003.deletion() - Clicked Try here button
+[INFO ] 2022-05-23 12:18:26,393 TC_LinkedList_003.deletion() - Code entered in codeeditor
+[INFO ] 2022-05-23 12:18:28,484 TC_LinkedList_003.deletion() - Run button clicked
+[INFO ] 2022-05-23 12:18:28,484 TC_LinkedList_003.deletion() - *************************************************************** 
+[INFO ] 2022-05-23 12:18:28,485 TC_LinkedList_003.deletion() - **************Deletion Test case ended************************* 
+[INFO ] 2022-05-23 12:18:40,877 TC_EditorPage_004.setup() - **************Launched editor page************************* 
+[INFO ] 2022-05-23 12:18:40,878 TC_EditorPage_004.setup() - *************************************************************** 
+[INFO ] 2022-05-23 12:18:44,770 TC_EditorPage_004.runEditorCodeAndVerify() - Enter code inside codemirror
+[INFO ] 2022-05-23 12:18:46,977 TC_EditorPage_004.runEditorCodeAndVerify() - Click run button
+[INFO ] 2022-05-23 12:18:53,652 TC_EditorPage_004.setup() - **************Launched editor page************************* 
+[INFO ] 2022-05-23 12:18:53,652 TC_EditorPage_004.setup() - *************************************************************** 
+[INFO ] 2022-05-23 12:18:58,009 TC_EditorPage_004.runAndVerifyAlert() - Enter code inside codemirror
+[INFO ] 2022-05-23 12:19:02,183 TC_EditorPage_004.runAndVerifyAlert() - Registration Failed
+[INFO ] 2022-05-23 12:19:04,905 TC_EditorPage_004.setup() - **************Launched editor page************************* 
+[INFO ] 2022-05-23 12:19:04,906 TC_EditorPage_004.setup() - *************************************************************** 
+[INFO ] 2022-05-23 12:19:09,296 TC_EditorPage_004.runAndVerifyAlert() - Enter code inside codemirror
+[INFO ] 2022-05-23 12:19:13,483 TC_EditorPage_004.runAndVerifyAlert() - Registration Failed
